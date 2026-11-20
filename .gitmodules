@@ -1,7 +1,10 @@
 [submodule "pybind11"]
-    path = pybind11
-    url = https://github.com/pybind/pybind11.git
-    branch = master
-[submodule "Audiofile"]
-	path = Audiofile
-	url = ./Audiofile
+	path = pybind11
+	url = https://github.com/pybind/pybind11.git
+	branch = master
+[submodule "AudioFile"]
+	path = AudioFile
+	url = https://github.com/adamstark/AudioFile.git
+[submodule "matplotplusplus"]
+	path = matplotplusplus
+	url = https://github.com/alandefreitas/matplotplusplus.git
