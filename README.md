@@ -42,7 +42,7 @@ lib.wave_to_audio(lib.noise(audio, 0.02), "noise.wav")
 ```
 
 Pełny raport z wykresami i nagraniami: [`raport.ipynb`](raport.ipynb)
-(pliki dźwiękowe odtwarza się najlepiej przez [nbviewer](https://nbviewer.org/github/praha6248/signal-processing-cpp/blob/main/raport.ipynb)).
+(pliki dźwiękowe odtwarza się najlepiej przez [nbviewer](https://nbviewer.org/github/praha6248/signal-processing-cpp/blob/master/raport.ipynb)).
 
 ## Budowanie
 
